@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-js-display-list-client-side-solution",
+    "id": "74bf3907-f76e-4285-b71c-7f9cc554c1d3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/react-js-display-list.sppkg"
+  }
+}
