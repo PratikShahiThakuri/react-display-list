@@ -12,6 +12,8 @@
     @include ms-fontColor-white;
     background-color: $ms-color-themeDark;
     padding: 20px;
+    font-size: medium;
+
   }
   .divCol{
     @include ms-Grid-col;
@@ -22,6 +24,9 @@
     background-color: ms-bgColor-themeLight;
     @include ms-font-m-plus;
 
+  }
+  .grid{
+    @include ms-Grid;
   }
   .column {
     @include ms-Grid-col;
